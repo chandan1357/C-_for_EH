@@ -2,7 +2,6 @@
 C++ for Ethical Hackers.
 ```
 Contents
-
 ```
 1. Basic of C++
 2. Keylogger
